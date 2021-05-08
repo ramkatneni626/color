@@ -19,7 +19,6 @@ body {
   }
   
   .keyboard {
-    display: flex;
     flex-direction: column;
   }
   
