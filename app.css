@@ -39,7 +39,10 @@ body {
     text-align: center;
     font-size: 1em;
   }
-  
+  #ram{
+    font-weight: bolder;
+    color: aliceblue;
+  }
   #tab {
     width: 5em;
   }
@@ -89,16 +92,16 @@ body {
   }
   
   .pointer1st { 
-    background-color: gold;
-    border: 2px solid gold;
+    background-color:#f1cc04e0;
+    border: 2px solid #f1cc04e0;
   }
   .pointer1st.selected {
     color: gold;
   }
   
   .pointer2nd { 
-    background-color: khaki;
-    border: 2px solid khaki;
+    background-color:#f0e68cd6;
+    border: 2px solid #f0e68cd6;
   }
   .pointer2nd.selected {
     color: khaki;
